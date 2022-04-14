@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top {
+    width: 100%;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.shipping {
+margin: 6px 0 0 25px;
+float: left;
+color: white;
+position: relative;
+}
+.email {
+    margin: 6px 0 0 200px;
+    float: left;
+    color: white;
+    position: relative;
+}
+.phone {
+    margin: 6px 20px 0 0;
+    float: right;
+    color: white;
+    position: relative;
+}
+a:link {
+    text-decoration: none;
+    cursor: pointer;
+}
+/* a:visited { 
+    color: rgb(141, 133, 148);
+    text-decoration: none; */
+}
+a:hover {
+    color: green;
+    text-decoration: underline;
+}
+.navBar {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.men {
+    margin-top: 150px;
+    color: black;
+    padding-right: 5px;
+    text-transform: uppercase;
+}
+.women {
+    margin-top: 150px;
+    color: black;
+    padding-right: 5px;
+    text-transform: uppercase;
+}
+.Boots {
+    margin-top: 150px;
+    color: black;
+    padding-right: 5px;
+    text-transform: uppercase;
+}
+.Sneakers {
+    margin-top: 150px;
+    color: black;
+    padding-right: 5px;
+    text-transform: uppercase;
+}
+.Accessories {
+    margin-top: 150px;
+    color: black;
+    padding-right: 5px;
+    text-transform: uppercase;
+}
+.home {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: black;
+}
